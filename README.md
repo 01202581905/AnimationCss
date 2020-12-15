@@ -1,2 +1,2 @@
 # AnimationCss
-List animation css
+List animation css by Phung Nguyen
